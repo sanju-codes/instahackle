@@ -22,7 +22,7 @@ cd inshackle
 bash inshackle.sh
 ```
 
-## by arjun SANJU PAPPACHAN
+## by SANJU PAPPACHAN
 
 
 
